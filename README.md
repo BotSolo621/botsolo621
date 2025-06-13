@@ -4,4 +4,12 @@ I'm Epi, I'm a amatur programmer and a highschool student. I mainly code project
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css)](https://skillicons.dev)
+
+## Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+
+## CodeStats
+
+![Code::Stats](https://codestats.net/users/botsolo621/badge.svg)
