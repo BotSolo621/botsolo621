@@ -4,4 +4,4 @@ I'm Epi, I'm a amatur programmer and a highschool student. I mainly code project
 
 ## Languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,tailwind)](https://skillicons.dev)
