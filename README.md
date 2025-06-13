@@ -10,6 +10,6 @@ I'm Epi, I'm a amatur programmer and a highschool student. I mainly code project
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
 
-## CodeStats
+## CodeTime
 
-![Code::Stats](https://codestats.net/users/botsolo621/badge.svg)
+[![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33244)](https://codetime.dev)
